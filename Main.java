@@ -1,7 +1,12 @@
 import java.io.IOException;
 import java.util.ArrayList;
 
-public class GUI {
+import org.junit.Test;
+
+import static org.junit.Assert.*;
+
+
+public class Main {
 
 	
 	
@@ -19,7 +24,10 @@ public class GUI {
 		
 		
 		
-		//Graph USGraph = new Graph(arrayOfLines,arrayOfPoi);
+		
+		
+		
+		
 
 	}
 }

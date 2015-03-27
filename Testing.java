@@ -7,7 +7,7 @@ import org.junit.Test;
 
 public class Testing {
 
-	Player player1;
+	Player player1 = new Player();
 	
 	
 	@Test

@@ -1,7 +1,9 @@
 
 public class Player {
+	public String username;
 	
-	public Player(){
+	public Player(String name){
+		
 		
 	}
 
